@@ -1,0 +1,43 @@
+h1{
+    color :white;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-align: center;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: 290px;
+}
+#thirdDiv{
+    text-align: center;
+    height: 600px;
+    width: 1200px;
+    color: white;
+    padding: 50px;
+    border: white 5px double;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    color: white;
+}
+html{
+    background: black;
+}
+li{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+

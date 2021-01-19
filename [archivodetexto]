@@ -1,0 +1,6 @@
+variable : son los lugares que tendran dentro informacion que le vayamos a asignar.
+strings: son cadena de caracteres.
+funciones: codigo que realiza una accion y que luego se puede invocar.
+declaracion: return: escape de datos de una funciones
+console.log : salida en pantalla.
+valores booleanos: aquellos que son verdaderos o falsos
